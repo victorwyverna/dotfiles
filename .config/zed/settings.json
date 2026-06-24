@@ -7,6 +7,15 @@
 // custom settings, run zed: open default settings from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "auto_install_extensions": {
+    "catppuccin": true,
+    "catppuccin-icons": true,
+    "dockerfile": true,
+    "git-firefly": true,
+    "html": true,
+    "lua": true,
+    "vue": true,
+  },
   "project_panel": {
     "dock": "left",
   },

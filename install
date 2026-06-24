@@ -22,3 +22,4 @@ run_dotbot() {
 }
 
 run_dotbot 'steps/terminal.yml' "$@"
+run_dotbot 'steps/dependencies.yml' "$@"

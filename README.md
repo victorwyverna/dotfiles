@@ -2,6 +2,12 @@
 
 This repository contains my dotfiles.
 
+## Requirements
+
+- macOS
+- [Homebrew](https://brew.sh/)
+- A licensed [Essential PragmataPro](https://fsd.it/shop/fonts/pragmatapro/) font
+
 ## Installation
 
 Clone the repository with its submodules and run the installer:
