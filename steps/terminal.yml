@@ -1,0 +1,9 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+
+- link:
+    ~/.zshrc: .zshrc
+    ~/.config/wezterm: .config/wezterm
+    ~/.config/zed/settings.json: .config/zed/settings.json
