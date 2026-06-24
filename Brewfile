@@ -5,6 +5,8 @@ tap "jandedobbeleer/oh-my-posh"
 brew "gh"
 # Cross-shell prompt configured in .zshrc.
 brew "jandedobbeleer/oh-my-posh/oh-my-posh"
+# Terminal UI for Git workflows.
+brew "lazygit"
 
 # Terminal emulator configured in .config/wezterm.
 cask "wezterm"

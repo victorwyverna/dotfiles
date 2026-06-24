@@ -20,3 +20,8 @@ cd dotfiles
 
 If the repository was cloned without submodules, `./install` initializes them
 automatically.
+
+## Additional
+
+- [NVM](https://github.com/nvm-sh/nvm) is installed separately using the
+  official installation method and is not managed by the Brewfile.
