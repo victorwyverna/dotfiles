@@ -10,6 +10,7 @@ ZSH_THEME="simple"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  gh
 )
 
 # Sourcing the Oh-My-ZSH source:

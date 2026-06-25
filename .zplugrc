@@ -3,6 +3,9 @@ source "$ZPLUG_HOME/init.zsh"
 # Must be loaded before plugins that extend completion widgets.
 zplug "Aloxaf/fzf-tab", depth:1
 
+zplug 'zsh-users/zsh-syntax-highlighting', depth:1
+zplug "zsh-users/zsh-autosuggestions"
+
 # Install plugins if there are plugins that have not been installed:
 if ! zplug check; then
   zplug install
