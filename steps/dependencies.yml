@@ -1,7 +1,4 @@
 - shell:
-    - command: command -v brew >/dev/null
-      description: Checking Homebrew
-      stderr: true
     - command: brew bundle --file Brewfile
       description: Installing development environment
       stdout: true
