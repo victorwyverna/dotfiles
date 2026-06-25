@@ -5,6 +5,7 @@
 
 - link:
     ~/.zshrc: .zshrc
+    ~/.config/shell: shell
     ~/.config/wezterm: .config/wezterm
     ~/.config/zed/settings.json: .config/zed/settings.json
     ~/.config/git/ignore: .config/git/ignore

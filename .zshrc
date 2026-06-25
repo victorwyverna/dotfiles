@@ -1,3 +1,5 @@
 eval "$(oh-my-posh init zsh --config 'spaceship')"
 
-alias lg='lazygit'
+if [ -f "$HOME/.config/shell/.aliases" ]; then
+  source "$HOME/.config/shell/.aliases"
+fi
